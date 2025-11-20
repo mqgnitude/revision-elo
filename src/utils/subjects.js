@@ -1,0 +1,1 @@
+export const subjects = ['Math','Physics','Chemistry','Biology','History','Geography','Languages']
